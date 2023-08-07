@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 This project was hosted with Netlify.
 [Covid Tracking ](https://covid19-tracking-app-1.netlify.app/)
 
