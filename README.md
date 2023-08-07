@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was hosted with Netlify.
+[Covid Tracking ](https://covid19-tracking-app-1.netlify.app/)
 
 ## Available Scripts
 
